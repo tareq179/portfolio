@@ -7,12 +7,12 @@ h1{
 .name-highlight{
     color: orange;
 }
-.haaf-width{
+.half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
-.haaf-width img{
+.half-width img{
     width: 100%;
 }
